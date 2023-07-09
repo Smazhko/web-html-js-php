@@ -1,4 +1,4 @@
-
+-- https://onecompiler.com/mysql/3ze2nc5du
 -- create
 CREATE TABLE user (
   id INTEGER PRIMARY KEY,
